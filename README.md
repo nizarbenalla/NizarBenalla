@@ -43,7 +43,3 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nizarbenalla&show_icons=true&locale=en&layout=compact" alt="nizarbenalla" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nizarbenalla&" alt="nizarbenalla" /></p>

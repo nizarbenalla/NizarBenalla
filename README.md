@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nizar Benalla</h1>
-<h3 align="center">A creative software engineer from Morocco</h3>
+<h3 align="center">A creative software engineer from Moroccom currently an Intern at Oracle Morocco R&D Center</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nizarbenalla&label=Profile%20views&color=0e75b6&style=flat" alt="nizarbenalla" /> </p>
 

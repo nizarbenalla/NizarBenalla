@@ -3,7 +3,7 @@
 
  - I am a Java Developper - Interested in Golang.
  - Curious and creative engineer from Morocco
- - Currently an Intern at Oracle Morocco R&D Center
+ - I want for Oracle on OpenJDK - `@since 2024`
  - You can reach me on **benalla.nizar.work@gmail.com**
  - **I am a really good swimmer**
 

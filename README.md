@@ -1,9 +1,8 @@
 ### Hi there 👋, I'm Nizar Benalla. Thanks for visiting my profile
-## Me in 20 seconds
+## Me in 10 seconds
 
- - I am a Java Developper - Interested in Golang.
- - Curious and creative engineer from Morocco
- - I want for Oracle on OpenJDK - `@since 2024`
+ - Software Engineer at Oracle, contributing to OpenJDK - `@since 2024`
+ - Passionate about technology and programming languages.
  - You can reach me on **benalla.nizar.work@gmail.com**
  - **I am a really good swimmer**
 

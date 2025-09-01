@@ -8,7 +8,7 @@
 
 ## Upcoming talks:
 
-- 🇲🇦 [Moving the seam between Java and Native code with jextract.](https://devoxx.ma/talk/?id=11602/) (Devoxx Morocco, 12-14 November 2025)
+- 🇲🇦 [Moving the seam between Java and Native code with jextract.](https://devoxx.ma/talk/?id=11602) (Devoxx Morocco, 12-14 November 2025)
 
 
 
